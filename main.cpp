@@ -7,5 +7,6 @@ int main()
     std::cout << "Hello, Main!" << std::endl;
     std::cout << "Hello, Merge!" << std::endl;
     std::cout << "Hello, Conflict!(Bugfix!)" << std::endl;
+    std::cout << "Hello, Stash!" << std::endl;
     return 0;
 }
