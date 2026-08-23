@@ -4,5 +4,6 @@ int main()
 {
     std::cout << "Hello, Commit!" << std::endl;
     std::cout << "Hello, Branch!" << std::endl;
+    std::cout << "Hello, Main!" << std::endl;
     return 0;
 }
